@@ -1,10 +1,10 @@
 # Site
-title:          JBlog
+title:          MN-IT
 bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
-picture:        'assets/img/profile.png'
-locale:         en_US
-url:            https://alperenbozkurt.github.io/JBlog
+description:    "在日モンゴル人IT技術者たちのホームページ"
+picture:        'assets/img/frontDesign.png'
+locale:         ja_JP
+# url:            git
 
 
 # Jekyll
@@ -24,8 +24,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-twitter: username
-facebook: username
+# twitter: username
+# facebook: username
 #google:
   #plus: #username
   #analytics:
@@ -33,18 +33,18 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+github: aronsoyol
+# stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+# linkedin: username
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
+# instagram: username
+# lastfm: username
+# tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+# steam: username
 #dribbble: username
-youtube: username
+# youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username
@@ -57,7 +57,7 @@ youtube: username
 
 
 # Comments
-disqus_shortname: alperenbozkurt-net
+disqus_shortname: mn-it
 
 
 # Gems
