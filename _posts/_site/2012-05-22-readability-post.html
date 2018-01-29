@@ -1,0 +1,112 @@
+<h1 id="mips-nedir-"><strong>Mips Nedir ?</strong></h1>
+<p>MIPS <strong>İndirgenmiş Komut Kümesi</strong> türü bir mikroişlemci mimarisidir. MIPS Teknolojileri adlı firma tarafından üretilmiştir. Her komut aynı boydadır. Bu da komutların bilgisayar donanımı tarafından kolay çözülmesini sağlar.
+<strong>RISC</strong> yapısından dolayı tasarımı basittir. Çoğu modern mikroişlemci mimarisi (IBM/Motorola PowerPC, DEC, ARM) Mips mimarisinden esinlenilerek yapılmıştır.
+Günümüz itibarıyla <strong>Nintendo 64</strong>, <strong>Sony PlayStation</strong>, <strong>Sony PlayStation 2</strong> ve <strong>Sony PSP</strong> MIPS mimarisi ile çalışan işlemcilere sahiptirler.</p>
+
+<h2 id="registerlar-neden-var">Register’lar Neden Var</h2>
+<p>İşlemci birim zamanda sadece bir işlem yapabilir. Örneğin 3 sayıyı toplamasını istediğimizde önce ilk ikisini toplayacak, sonra ara sonucu tekrar ram’e yazacak. Sonra bu ara sonuç ile 3. sayıyı tekrar çağırıp onlarıda toplayacak. Sonra tekrar Ram’e kadar gidi yazacak. Fakat ara sonucu işlemcinin içerisinde tutabilseydik işlemleri daha hızlı gerçekleştirebilirdik. Her işlemden sonra verileri ram’e götürüp yazmak zorunda kalmazdık. Böyle diyerek işlemcinin içerisine registerları eklemişler.</p>
+
+<h2 id="hangi-register-ne-işe-yarar">Hangi Register Ne işe Yarar</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Register</th>
+      <th style="text-align: center">Sayısı</th>
+      <th style="text-align: right">Açıklama</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">$zero</td>
+      <td style="text-align: center">0</td>
+      <td style="text-align: right">İçerisinde 0 sayısı vardır.</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">$at</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: right">Assembler tarafından kullanılır.</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">$v0-$v1</td>
+      <td style="text-align: center">2-3</td>
+      <td style="text-align: right">Metodların return değişkenleri için.</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">$a0-$a3</td>
+      <td style="text-align: center">4-7</td>
+      <td style="text-align: right">Metodlara gidecek parametreler için.</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">$t0-$t7</td>
+      <td style="text-align: center">8-15</td>
+      <td style="text-align: right">Geçici değişkenler</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">$s0-$s7</td>
+      <td style="text-align: center">16-23</td>
+      <td style="text-align: right">Kayıt registerları</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">$t8-$t9</td>
+      <td style="text-align: center">24-25</td>
+      <td style="text-align: right">Biraaz daha geçici değişken</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">$k0-$k1</td>
+      <td style="text-align: center">26-27</td>
+      <td style="text-align: right">İşletim sistemi tarafından kullanılır.</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">$gp</td>
+      <td style="text-align: center">28</td>
+      <td style="text-align: right">Global Pointer</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">$sp</td>
+      <td style="text-align: center">29</td>
+      <td style="text-align: right">Stack Pointer</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">$fp</td>
+      <td style="text-align: center">30</td>
+      <td style="text-align: right">Frame Pointer</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td style="text-align: left">$ra</td>
+      <td style="text-align: center">31</td>
+      <td style="text-align: right">Return Adress</td>
+    </tr>
+  </tfoot>
+</table>
+
+<h2 id="örnek-bir-assembly-kodu">Örnek Bir Assembly Kodu</h2>
+<p>C dilinde yazılmış <code class="highlighter-rouge">f = (a+b)+(c+d)</code> işlemini assembly ile yazalım.
+(Değişkenler sırasıyla s0,s1,s2,s3,s4 registerlarına getirilmiştir.)</p>
+
+<figure class="highlight"><pre><code class="language-ca65" data-lang="ca65">add $t0, $s1, $s2
+add $t1, $s3, $s4
+add $s0, $t0, $t1</code></pre></figure>
+

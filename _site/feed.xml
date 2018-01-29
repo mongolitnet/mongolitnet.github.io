@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://192.168.0.19:4002/feed.xml" rel="self" type="application/atom+xml" /><link href="http://192.168.0.19:4002/" rel="alternate" type="text/html" /><updated>2018-01-29T17:42:59+09:00</updated><id>http://192.168.0.19:4002/</id><title type="html">MN-IT</title><subtitle>在日モンゴル人IT技術者たちのホームページ</subtitle><entry><title type="html">JAVA勉強会のお知らせ</title><link href="http://192.168.0.19:4002/java-2018-01/" rel="alternate" type="text/html" title="JAVA勉強会のお知らせ" /><published>2018-01-18T00:00:00+09:00</published><updated>2018-01-18T00:00:00+09:00</updated><id>http://192.168.0.19:4002/java-2018-01</id><content type="html" xml:base="http://192.168.0.19:4002/java-2018-01/">&lt;p&gt;モンゴルITネットワークグループから2018年度のJAVA勉強会を下記の通り実施しますので、お知らせいたします。 各自奮ってご参加ください「ぜひ、皆様多数の参加をお待ちしております」&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://192.168.0.19:4002/feed.xml" rel="self" type="application/atom+xml" /><link href="http://192.168.0.19:4002/" rel="alternate" type="text/html" /><updated>2018-01-29T17:53:34+09:00</updated><id>http://192.168.0.19:4002/</id><title type="html">MN-IT</title><subtitle>在日モンゴル人IT技術者たちのホームページ</subtitle><entry><title type="html">JAVA勉強会のお知らせ</title><link href="http://192.168.0.19:4002/java-2018-01/" rel="alternate" type="text/html" title="JAVA勉強会のお知らせ" /><published>2018-01-28T00:00:00+09:00</published><updated>2018-01-28T00:00:00+09:00</updated><id>http://192.168.0.19:4002/java-2018-01</id><content type="html" xml:base="http://192.168.0.19:4002/java-2018-01/">&lt;p&gt;モンゴルITネットワークグループから2018年度のJAVA勉強会を下記の通り実施しますので、お知らせいたします。 各自奮ってご参加ください「ぜひ、皆様多数の参加をお待ちしております」&lt;/p&gt;
 
 &lt;h2 id=&quot;申し込みはこちら&quot;&gt;申し込みはこちら！！&lt;/h2&gt;
 
@@ -100,7 +100,81 @@ Nutag(ノタック) 神保町教室
       &lt;li&gt;burgud (TEL：08051710088、Wechat：jsj05543)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="java" /><category term="英語" /><category term="勉強会" /><summary type="html">Mips ve assembly kodları giriş.</summary></entry><entry><title type="html">MN-IT 2017年第三回定例会</title><link href="http://192.168.0.19:4002/mitnet-2017-3rd" rel="alternate" type="text/html" title="MN-IT 2017年第三回定例会" /><published>2017-08-06T00:00:00+09:00</published><updated>2017-08-06T00:00:00+09:00</updated><id>http://192.168.0.19:4002/mit-2017-third-meeting</id><content type="html" xml:base="http://192.168.0.19:4002/mitnet-2017-3rd">&lt;!-- # MN-IT 2017年第三回定例会 --&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="java" /><category term="英語" /><category term="勉強会" /><summary type="html">Mips ve assembly kodları giriş.</summary></entry><entry><title type="html">伝統モンゴル文字入力勉強会2018</title><link href="http://192.168.0.19:4002/learn-mongol-ime" rel="alternate" type="text/html" title="伝統モンゴル文字入力勉強会2018" /><published>2018-01-25T00:00:00+09:00</published><updated>2018-01-25T00:00:00+09:00</updated><id>http://192.168.0.19:4002/mongolianinputmethod</id><content type="html" xml:base="http://192.168.0.19:4002/learn-mongol-ime">&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://aronsoyol.github.io/assets/mongolinput.jpg&quot; alt=&quot;mongolinput&quot; /&gt;
+&lt;!-- # MN-IT 2017年第三回定例会 --&gt;&lt;/p&gt;
+&lt;h2 id=&quot;主催&quot;&gt;主催&lt;/h2&gt;
+
+&lt;p&gt;モンゴルITネットワーク&lt;/p&gt;
+&lt;h2 id=&quot;日時&quot;&gt;日時&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2月24日(土)&lt;/li&gt;
+  &lt;li&gt;定例会:14:00 ~ 17:00&lt;/li&gt;
+  &lt;li&gt;懇親会:18:00 ~ 21:00&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;講師&quot;&gt;講師&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;アロンソイラ　株式会社アルマス&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;開催場所&quot;&gt;開催場所&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;住所&lt;br /&gt;
+&lt;a href=&quot;https://www.google.co.jp/maps?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E7%A5%9E%E4%BF%9D%E7%94%BA2-12-3%E5%AE%89%E5%AF%8C%E3%83%93%E3%83%AB3F&amp;amp;um=1&amp;amp;ie=UTF-8&amp;amp;sa=X&amp;amp;ved=0.1ahUKEwjNyLX85u7VAhXKrlQKHWsrAqYQ_AUICigB&quot;&gt;東京都千代田区神保町2-12-3安富ビル3F&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;最寄り駅&lt;br /&gt;
+神保町駅A4を左へ曲がって50mぐらい&lt;/li&gt;
+  &lt;li&gt;地図&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.204631462509!2d139.75470076525923!3d35.69658168019067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c140ff3e479%3A0x6f4cc4a317675c33!2z44CSMTAxLTAwNTEg5p2x5Lqs6YO95Y2D5Luj55Sw5Yy656We55Sw56We5L-d55S677yS5LiB55uuIOWuieWvjOODk-ODqw!5e0!3m2!1sja!2sjp!4v1516865428788&quot; width=&quot;100%&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;内容&quot;&gt;内容&lt;/h2&gt;
+
+&lt;p&gt;(以下の内容は暫定です)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;伝統モンゴル文字コードの紹介&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;伝統モンゴル文字をパソコン（Windows, Mac）で入力する方法&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;伝統モンゴル文字をスマーホン(iPhone, Android)で入力する方法&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;連絡&quot;&gt;連絡&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;アゴダム
+    &lt;ul&gt;
+      &lt;li&gt;TEL &lt;a href=&quot;tel:08066329988‬&quot;&gt;080-6632-9988‬&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;WECHAT agudamY&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;アロンソイラ
+    &lt;ul&gt;
+      &lt;li&gt;TEL &lt;a href=&quot;tel:09063001635&quot;&gt;090-6300-1635&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;WECHAT raonga290&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;懇親会&quot;&gt;懇親会&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;調整中…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;参加の申し込み&quot;&gt;参加の申し込み&lt;/h2&gt;
+
+&lt;p&gt;どなたでも自由に参加できます。以下のリンクを押して出欠登録を行ってください。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chouseisan.com/s?h=0cfc81383c1244d1994e234828156e82&quot;&gt;https://chouseisan.com/s?h=0cfc81383c1244d1994e234828156e82&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>aron</name></author><category term="MN-IT" /><category term="勉強会" /><summary type="html">主催</summary></entry><entry><title type="html">MN-IT 2017年第三回定例会</title><link href="http://192.168.0.19:4002/mitnet-2017-3rd" rel="alternate" type="text/html" title="MN-IT 2017年第三回定例会" /><published>2017-08-06T00:00:00+09:00</published><updated>2017-08-06T00:00:00+09:00</updated><id>http://192.168.0.19:4002/mit-2017-third-meeting</id><content type="html" xml:base="http://192.168.0.19:4002/mitnet-2017-3rd">&lt;!-- # MN-IT 2017年第三回定例会 --&gt;
 
 &lt;h2 id=&quot;日時&quot;&gt;日時&lt;/h2&gt;
 
@@ -866,53 +940,4 @@ Nutag(ノタック) 神保町教室
 
 &lt;h2 id=&quot;notices&quot;&gt;Notices&lt;/h2&gt;
 
-&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;.notice&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; to a paragraph.&lt;/p&gt;</content><author><name></name></author><category term="markdown" /><category term="syntax" /><category term="sample" /><category term="test" /><category term="jekyll" /><summary type="html">Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more.</summary></entry><entry><title type="html">A Post with Images</title><link href="http://192.168.0.19:4002/sample-post-images/" rel="alternate" type="text/html" title="A Post with Images" /><published>2013-05-22T00:00:00+09:00</published><updated>2013-05-22T00:00:00+09:00</updated><id>http://192.168.0.19:4002/sample-post-images</id><content type="html" xml:base="http://192.168.0.19:4002/sample-post-images/">&lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; with the appropriate &lt;code class=&quot;highlighter-rouge&quot;&gt;class&lt;/code&gt;. Each instance of &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
-
-&lt;h3 id=&quot;figures-for-images-or-video&quot;&gt;Figures (for images or video)&lt;/h3&gt;
-
-&lt;h4 id=&quot;one-up&quot;&gt;One Up&lt;/h4&gt;
-
-&lt;figure&gt;
-	&lt;a href=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;a href=&quot;http://www.flickr.com/photos/80901381@N04/7758832526/&quot; title=&quot;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&quot;&gt;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&lt;/a&gt;.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
-
-&lt;h4 id=&quot;two-up&quot;&gt;Two Up&lt;/h4&gt;
-
-&lt;p&gt;Apply the &lt;code class=&quot;highlighter-rouge&quot;&gt;half&lt;/code&gt; class like so to display two images side by side that share the same caption.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;half&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-1-large.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-1.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-2-large.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-2.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these two images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
-
-&lt;figure class=&quot;half&quot;&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.JPG&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpeg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;Two images.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h4 id=&quot;three-up&quot;&gt;Three Up&lt;/h4&gt;
-
-&lt;p&gt;Apply the &lt;code class=&quot;highlighter-rouge&quot;&gt;third&lt;/code&gt; class like so to display three images side by side that share the same caption.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;third&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-1.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-2.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-3.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these three images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
-
-&lt;figure class=&quot;third&quot;&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;figcaption&gt;Three images.&lt;/figcaption&gt;
-&lt;/figure&gt;</content><author><name></name></author><category term="sample post" /><category term="images" /><category term="test" /><summary type="html">Examples and code for displaying images in posts.</summary></entry></feed>
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;.notice&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; to a paragraph.&lt;/p&gt;</content><author><name></name></author><category term="markdown" /><category term="syntax" /><category term="sample" /><category term="test" /><category term="jekyll" /><summary type="html">Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more.</summary></entry></feed>

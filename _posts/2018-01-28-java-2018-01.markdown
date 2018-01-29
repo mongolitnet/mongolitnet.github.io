@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JAVA勉強会のお知らせ"
-date: 2018-01-18
+date: 2018-01-28
 excerpt: "Mips ve assembly kodları giriş."
 tags: [java, 英語, 勉強会]
 ---
