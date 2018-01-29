@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://192.168.0.19:4002/feed.xml" rel="self" type="application/atom+xml" /><link href="http://192.168.0.19:4002/" rel="alternate" type="text/html" /><updated>2018-01-29T17:53:34+09:00</updated><id>http://192.168.0.19:4002/</id><title type="html">MN-IT</title><subtitle>在日モンゴル人IT技術者たちのホームページ</subtitle><entry><title type="html">JAVA勉強会のお知らせ</title><link href="http://192.168.0.19:4002/java-2018-01/" rel="alternate" type="text/html" title="JAVA勉強会のお知らせ" /><published>2018-01-28T00:00:00+09:00</published><updated>2018-01-28T00:00:00+09:00</updated><id>http://192.168.0.19:4002/java-2018-01</id><content type="html" xml:base="http://192.168.0.19:4002/java-2018-01/">&lt;p&gt;モンゴルITネットワークグループから2018年度のJAVA勉強会を下記の通り実施しますので、お知らせいたします。 各自奮ってご参加ください「ぜひ、皆様多数の参加をお待ちしております」&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://192.168.0.19:4002/feed.xml" rel="self" type="application/atom+xml" /><link href="http://192.168.0.19:4002/" rel="alternate" type="text/html" /><updated>2018-01-29T18:27:43+09:00</updated><id>http://192.168.0.19:4002/</id><title type="html">MN-IT</title><subtitle>在日モンゴル人IT技術者たちのホームページ</subtitle><entry><title type="html">JAVA勉強会のお知らせ</title><link href="http://192.168.0.19:4002/java-2018-01/" rel="alternate" type="text/html" title="JAVA勉強会のお知らせ" /><published>2018-01-28T00:00:00+09:00</published><updated>2018-01-28T00:00:00+09:00</updated><id>http://192.168.0.19:4002/java-2018-01</id><content type="html" xml:base="http://192.168.0.19:4002/java-2018-01/">&lt;p&gt;モンゴルITネットワークグループから2018年度のJAVA勉強会を下記の通り実施しますので、お知らせいたします。 各自奮ってご参加ください「ぜひ、皆様多数の参加をお待ちしております」&lt;/p&gt;
 
 &lt;h2 id=&quot;申し込みはこちら&quot;&gt;申し込みはこちら！！&lt;/h2&gt;
 
@@ -79,11 +79,15 @@ Javaの基本からオブジェクト指向の概念まで、Javaを用いた �
     &lt;p&gt;&lt;strong&gt;料金&lt;/strong&gt;&lt;br /&gt;
 3万円/一人 ＋ 教材費3000円&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;開催場所&lt;/strong&gt;&lt;br /&gt;
+  &lt;li&gt;&lt;strong&gt;開催場所&lt;/strong&gt;&lt;br /&gt;
 Nutag(ノタック) 神保町教室
-東京都千代田区神田神保町2-12-3 安富ビル3F googleマップで見る&lt;/p&gt;
-  &lt;/li&gt;
+東京都千代田区神田神保町2-12-3 安富ビル3F&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;googleマップで見る&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.204631462509!2d139.75470076525923!3d35.69658168019067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c140ff3e479%3A0x6f4cc4a317675c33!2z44CSMTAxLTAwNTEg5p2x5Lqs6YO95Y2D5Luj55Sw5Yy656We55Sw56We5L-d55S677yS5LiB55uuIOWuieWvjOODk-ODqw!5e0!3m2!1sja!2sjp!4v1516865428788&quot; width=&quot;100%&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;アクセス&lt;/strong&gt;:&lt;br /&gt;
 地下鉄　神保町駅 A3口　から 徒歩2分&lt;/p&gt;
