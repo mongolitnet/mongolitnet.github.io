@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://192.168.0.19:4002/feed.xml" rel="self" type="application/atom+xml" /><link href="http://192.168.0.19:4002/" rel="alternate" type="text/html" /><updated>2018-01-29T17:20:25+09:00</updated><id>http://192.168.0.19:4002/</id><title type="html">MN-IT</title><subtitle>在日モンゴル人IT技術者たちのホームページ</subtitle><entry><title type="html">JAVA勉強会のお知らせ</title><link href="http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC/" rel="alternate" type="text/html" title="JAVA勉強会のお知らせ" /><published>2018-01-18T00:00:00+09:00</published><updated>2018-01-18T00:00:00+09:00</updated><id>http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC</id><content type="html" xml:base="http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC/">&lt;p&gt;&lt;strong&gt;モンゴルITネットワークグループから2018年度のJAVA勉強会を下記の通り実施しますので、お知らせいたします。 各自奮ってご参加ください「ぜひ、皆様多数の参加をお待ちしております」&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://192.168.0.19:4002/feed.xml" rel="self" type="application/atom+xml" /><link href="http://192.168.0.19:4002/" rel="alternate" type="text/html" /><updated>2018-01-29T17:40:01+09:00</updated><id>http://192.168.0.19:4002/</id><title type="html">MN-IT</title><subtitle>在日モンゴル人IT技術者たちのホームページ</subtitle><entry><title type="html">JAVA勉強会のお知らせ</title><link href="http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC/" rel="alternate" type="text/html" title="JAVA勉強会のお知らせ" /><published>2018-01-18T00:00:00+09:00</published><updated>2018-01-18T00:00:00+09:00</updated><id>http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC</id><content type="html" xml:base="http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC/">&lt;p&gt;モンゴルITネットワークグループから2018年度のJAVA勉強会を下記の通り実施しますので、お知らせいたします。 各自奮ってご参加ください「ぜひ、皆様多数の参加をお待ちしております」&lt;/p&gt;
 
-&lt;table border=&quot;0&quot;&gt;
-              &lt;tbody&gt;&lt;tr style=&quot;border: 0px;&quot;&gt;
-                &lt;td style=&quot; border: 0px;vertical-align: top;&quot;&gt;
-                  &lt;img width=&quot;200px;&quot; height=&quot;200px;&quot; src=&quot;../img/IMG_3915.JPG&quot; alt=&quot;QR&quot; /&gt;
-                &lt;/td&gt;
-                &lt;td style=&quot;border: 0px;&quot;&gt;
-                  &lt;table&gt;
-                    &lt;tbody&gt;&lt;tr&gt;
-                      &lt;td style=&quot;width: 50px;&quot;&gt;
-                        &lt;img width=&quot;50px;&quot; height=&quot;20px;&quot; src=&quot;../img/a01.gif&quot; alt=&quot;QR&quot; /&gt;
-                        &lt;span style=&quot;color: red;font-size: 24px;&quot;&gt;申し込みはこちら！！&lt;/span&gt;
-                        &lt;br /&gt;
-                      &lt;/td&gt;
-                    &lt;/tr&gt;
-                    &lt;tr&gt;
-                      &lt;td style=&quot;padding-left: 70px;&quot;&gt; 
-                        &lt;span style=&quot;font-size: 12px;&quot;&gt;注意事項① &lt;br /&gt;興味のある方は先に、勉強会専用のwechatグループに参加してください。&lt;br /&gt;左のQRコードを使用すれば、wechat グループに参加できます。&lt;/span&gt;&lt;/td&gt;
-                    &lt;/tr&gt;
-                    &lt;tr&gt;
-                      &lt;td style=&quot;padding-left: 70px;&quot;&gt; 
-                        &lt;span style=&quot;font-size: 12px;&quot;&gt;注意事項② &lt;br /&gt;
-                        オリエンテーションでは受業の試聴を行います。オリエンテーションでの&lt;br /&gt;受講以降、継続して参加される方は当グループを使って勉強会での受業内容、&lt;br /&gt;困っている問題を講師と交流用の土台として使い続けます。&lt;/span&gt;&lt;/td&gt;
-                    &lt;/tr&gt;
-                    &lt;tr&gt;
-                       &lt;td style=&quot;padding-left: 70px;&quot;&gt; 
-                        &lt;span style=&quot;font-size: 12px;&quot;&gt;注意事項③ &lt;br /&gt;オリエンテーション後に受業を継続しない方をグループ退出させていただきます。&lt;/span&gt;&lt;/td&gt;
-                    &lt;/tr&gt;
-                  &lt;/tbody&gt;&lt;/table&gt;
-                &lt;/td&gt;
-              &lt;/tr&gt;
-            &lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&quot;申し込みはこちら&quot;&gt;申し込みはこちら！！&lt;/h2&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/img/java_qr.jpg&quot; alt=&quot;QR code&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;注意事項&lt;/strong&gt;
+    &lt;ol&gt;
+      &lt;li&gt;興味のある方は先に、勉強会専用のwechatグループに参加してください。
+左のQRコードを使用すれば、wechat グループに参加できます。&lt;/li&gt;
+      &lt;li&gt;オリエンテーションでは受業の試聴を行います。オリエンテーションでの
+受講以降、継続して参加される方は当グループを使って勉強会での受業内容、
+困っている問題を講師と交流用の土台として使い続けます。&lt;/li&gt;
+      &lt;li&gt;オリエンテーション後に受業を継続しない方をグループ退出させていただきます。   -&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;講師&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;講師&lt;/strong&gt;&lt;/p&gt;
 
     &lt;ul&gt;
       &lt;li&gt;BURGUDさん(メイン講師)&lt;/li&gt;
@@ -42,43 +23,39 @@
       &lt;li&gt;agvdam(サブ講師)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;教材&lt;/p&gt;
-
+  &lt;li&gt;&lt;strong&gt;教材&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;「やさしいJava」第六版（高橋麻奈）&lt;/li&gt;
       &lt;li&gt;内容（計16章）&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;教材&lt;br /&gt;
+    &lt;p&gt;&lt;strong&gt;教材&lt;/strong&gt;&lt;br /&gt;
 java技術に興味あり、それで就職を希望する者。
 コンピュータの知識にあまり自身のない人でも心配なく参加できます。
 モンゴル語で受講できる者&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;身につくスキル&lt;br /&gt;
+    &lt;p&gt;&lt;strong&gt;身につくスキル&lt;/strong&gt;&lt;br /&gt;
 Javaの基本からオブジェクト指向の概念まで、Javaを用いた プログラミングの基本スキルを学びます。Javaの基本スキル を学ぶことで、最終的に自力でコマンドライン上で動くJavaの アプリケーションを開発できるようになります。&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;M-ITからのサポート&lt;br /&gt;
+    &lt;p&gt;&lt;strong&gt;M-ITからのサポート&lt;/strong&gt;&lt;br /&gt;
 受講中にスペシャル講師を招いて、受講者へＩＴ業界の知識を説明する。
 日本のＩＴ業界への就活サポートをする。&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;目標募集人数&lt;/p&gt;
-
+  &lt;li&gt;&lt;strong&gt;目標募集人数&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;10人　（先着順）&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;オリエンテーション
+  &lt;li&gt;&lt;strong&gt;オリエンテーション&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;3月3日（土）&lt;/li&gt;
       &lt;li&gt;13：00～16：00&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;開催日時
+  &lt;li&gt;&lt;strong&gt;開催日時&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;3月（17日（土）、31日（土））13:00～17：00（4ｈ）&lt;/li&gt;
       &lt;li&gt;4月（14日（土）、28日（土））13:00～17：00（4ｈ）&lt;/li&gt;
@@ -87,39 +64,37 @@ Javaの基本からオブジェクト指向の概念まで、Javaを用いた �
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;開催期間&lt;br /&gt;
+    &lt;p&gt;&lt;strong&gt;開催期間&lt;/strong&gt;&lt;br /&gt;
 3月〜6月（4ケ月）&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;回数&lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;8回（オリエンテーション一回を含む）&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;回数&lt;/strong&gt;&lt;br /&gt;
+8回（オリエンテーション一回を含む）&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;合計時間&lt;br /&gt;
+    &lt;p&gt;&lt;strong&gt;合計時間&lt;/strong&gt;&lt;br /&gt;
 32ｈ（4ｈ×8）&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;料金&lt;br /&gt;
+    &lt;p&gt;&lt;strong&gt;料金&lt;/strong&gt;&lt;br /&gt;
 3万円/一人 ＋ 教材費3000円&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;開催場所&lt;br /&gt;
+    &lt;p&gt;&lt;strong&gt;開催場所&lt;/strong&gt;&lt;br /&gt;
 Nutag(ノタック) 神保町教室
 東京都千代田区神田神保町2-12-3 安富ビル3F googleマップで見る&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;アクセス:&lt;br /&gt;
+    &lt;p&gt;&lt;strong&gt;アクセス&lt;/strong&gt;:&lt;br /&gt;
 地下鉄　神保町駅 A3口　から 徒歩2分&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;準備する物
+  &lt;li&gt;&lt;strong&gt;準備する物&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;ノートpc💻&lt;/li&gt;
       &lt;li&gt;教科書📖&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;問い合わせ&lt;/p&gt;
-
+  &lt;li&gt;&lt;strong&gt;問い合わせ&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;agudam (TEL：08066329988、Wechat：agudamY)&lt;/li&gt;
       &lt;li&gt;burgud (TEL：08051710088、Wechat：jsj05543)&lt;/li&gt;
