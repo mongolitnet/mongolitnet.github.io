@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://0.0.0.0:4002/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4002/" rel="alternate" type="text/html" /><updated>2018-01-29T16:48:16+09:00</updated><id>http://0.0.0.0:4002/</id><title type="html">MN-IT</title><subtitle>在日モンゴル人IT技術者たちのホームページ</subtitle><entry><title type="html">JAVA勉強会のお知らせ</title><link href="http://0.0.0.0:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC/" rel="alternate" type="text/html" title="JAVA勉強会のお知らせ" /><published>2018-01-18T00:00:00+09:00</published><updated>2018-01-18T00:00:00+09:00</updated><id>http://0.0.0.0:4002/java%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC</id><content type="html" xml:base="http://0.0.0.0:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC/">&lt;p&gt;&lt;strong&gt;モンゴルITネットワークグループから2018年度のJAVA勉強会を下記の通り実施しますので、お知らせいたします。 各自奮ってご参加ください「ぜひ、皆様多数の参加をお待ちしております」&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://192.168.0.19:4002/feed.xml" rel="self" type="application/atom+xml" /><link href="http://192.168.0.19:4002/" rel="alternate" type="text/html" /><updated>2018-01-29T17:20:25+09:00</updated><id>http://192.168.0.19:4002/</id><title type="html">MN-IT</title><subtitle>在日モンゴル人IT技術者たちのホームページ</subtitle><entry><title type="html">JAVA勉強会のお知らせ</title><link href="http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC/" rel="alternate" type="text/html" title="JAVA勉強会のお知らせ" /><published>2018-01-18T00:00:00+09:00</published><updated>2018-01-18T00:00:00+09:00</updated><id>http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC</id><content type="html" xml:base="http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC/">&lt;p&gt;&lt;strong&gt;モンゴルITネットワークグループから2018年度のJAVA勉強会を下記の通り実施しますので、お知らせいたします。 各自奮ってご参加ください「ぜひ、皆様多数の参加をお待ちしております」&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table border=&quot;0&quot;&gt;
               &lt;tbody&gt;&lt;tr style=&quot;border: 0px;&quot;&gt;
@@ -125,7 +125,85 @@ Nutag(ノタック) 神保町教室
       &lt;li&gt;burgud (TEL：08051710088、Wechat：jsj05543)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="java" /><category term="英語" /><category term="勉強会" /><summary type="html">Mips ve assembly kodları giriş.</summary></entry><entry><title type="html">java勉強会</title><link href="http://0.0.0.0:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC5/" rel="alternate" type="text/html" title="java勉強会" /><published>2017-04-21T00:00:00+09:00</published><updated>2017-04-21T00:00:00+09:00</updated><id>http://0.0.0.0:4002/java%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC5</id><content type="html" xml:base="http://0.0.0.0:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC5/">&lt;h2 id=&quot;第6回目の授業&quot;&gt;第6回目の授業&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="java" /><category term="英語" /><category term="勉強会" /><summary type="html">Mips ve assembly kodları giriş.</summary></entry><entry><title type="html">MN-IT 2017年第三回定例会</title><link href="http://192.168.0.19:4002/mitnet-2017-3rd" rel="alternate" type="text/html" title="MN-IT 2017年第三回定例会" /><published>2017-08-06T00:00:00+09:00</published><updated>2017-08-06T00:00:00+09:00</updated><id>http://192.168.0.19:4002/mit-2017-third-meeting</id><content type="html" xml:base="http://192.168.0.19:4002/mitnet-2017-3rd">&lt;!-- # MN-IT 2017年第三回定例会 --&gt;
+
+&lt;h2 id=&quot;日時&quot;&gt;日時&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;8月26日(土)&lt;/li&gt;
+  &lt;li&gt;定例会:14:00 ~ 17:00&lt;/li&gt;
+  &lt;li&gt;懇親会:18:00 ~ 21:00&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;開催場所&quot;&gt;開催場所&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.co.jp/maps?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E7%A5%9E%E4%BF%9D%E7%94%BA2-12-3%E5%AE%89%E5%AF%8C%E3%83%93%E3%83%AB3F&amp;amp;um=1&amp;amp;ie=UTF-8&amp;amp;sa=X&amp;amp;ved=0.1ahUKEwjNyLX85u7VAhXKrlQKHWsrAqYQ_AUICigB&quot;&gt;東京都千代田区神保町2-12-3安富ビル3F&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;最寄り駅&lt;br /&gt;
+神保町駅A4を左へ曲がって50mぐらい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;アジェンダー&quot;&gt;アジェンダー&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;MN-IT紹介&lt;br /&gt;
+  阿其拉図　さん&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;斎藤省三先生講演&lt;br /&gt;
+💎先生の経歴（英語かもしれません）、内モンゴル人との縁と英語勉強について&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;キリルモンゴル文字の勉強会(第2レッスン)&lt;br /&gt;
+👍キリルモンゴル文字が読み書きできるまでレッスンを続けます。&lt;br /&gt;
+  講師：トメンジルガル　様&lt;/p&gt;
+
+    &lt;p&gt;教材&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/cyrillic_book.png&quot; alt=&quot;cyrillic_book&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;上： &lt;a href=&quot;https://drive.google.com/file/d/0By08gOGRsqr3d3ZidUZUUmNNLTg/view?usp=sharing&quot;&gt;https://drive.google.com/file/d/0By08gOGRsqr3d3ZidUZUUmNNLTg/view?usp=sharing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;下： &lt;a href=&quot;https://drive.google.com/file/d/0By08gOGRsqr3Wk1nc0phM3FOQ1k/view?usp=sharing&quot;&gt;https://drive.google.com/file/d/0By08gOGRsqr3Wk1nc0phM3FOQ1k/view?usp=sharing&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;幹事&quot;&gt;幹事&lt;/h2&gt;
+&lt;p&gt;アロンソイラ&lt;/p&gt;
+
+&lt;h2 id=&quot;お持ち物&quot;&gt;お持ち物&lt;/h2&gt;
+&lt;p&gt;筆記用具🗒🖊&lt;/p&gt;
+
+&lt;h2 id=&quot;参加申し込みはここから&quot;&gt;参加申し込みはここから👇&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;調整さん:&lt;a href=&quot;https://chouseisan.com/s?h=bc65d1ff3a6a429f92e5bf02ce2f8c82&quot;&gt;https://chouseisan.com/s?h=bc65d1ff3a6a429f92e5bf02ce2f8c82&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🚥申し込み期限 : &lt;br /&gt;
+&lt;strong&gt;8月25日&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;懇親会&quot;&gt;懇親会&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;会費 :&lt;br /&gt;
+4000円&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;時間 : &lt;br /&gt;
+18:00 ~ 21:00&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;店舗名 : &lt;br /&gt;
+&lt;a href=&quot;https://tabelog.com/tokyo/A1310/A131002/13179696/dtlmap/&quot;&gt;トラットリア・リトルマルコ&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;住所 :   &lt;br /&gt;
+&lt;a href=&quot;https://www.google.co.jp/maps/place/%E3%80%92101-0063+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E7%A5%9E%E7%94%B0%E6%B7%A1%E8%B7%AF%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%94%E2%88%92%EF%BC%91+%E5%8F%8B%E6%B3%89%E6%B7%A1%E8%B7%AF%E7%94%BA%E3%83%93%E3%83%AB/@35.6960116,139.7655833,17z/data=!3m1!4b1!4m5!3m4!1s0x60188c1caa78fbb7:0xa0acd79f21d385e9!8m2!3d35.6960088!4d139.7677838&quot;&gt;東京都千代田区神田淡路町1-4-1友泉淡路町ビル１Ｆ&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;電話番号 :   &lt;br /&gt;
+&lt;a href=&quot;tel:0335254768&quot;&gt;03-3525-4768&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>aron</name></author><category term="MN-IT" /><category term="定例会" /><summary type="html"></summary></entry><entry><title type="html">java勉強会</title><link href="http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC5/" rel="alternate" type="text/html" title="java勉強会" /><published>2017-04-21T00:00:00+09:00</published><updated>2017-04-21T00:00:00+09:00</updated><id>http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC5</id><content type="html" xml:base="http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC5/">&lt;h2 id=&quot;第6回目の授業&quot;&gt;第6回目の授業&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;講師&lt;/p&gt;
@@ -207,7 +285,7 @@ Nutag(ノタック) 神保町教室
       &lt;li&gt;5/13(土)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="java" /><category term="英語" /><category term="勉強会" /><summary type="html">Mips ve assembly kodları giriş.</summary></entry><entry><title type="html">java勉強会</title><link href="http://0.0.0.0:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC4/" rel="alternate" type="text/html" title="java勉強会" /><published>2017-04-21T00:00:00+09:00</published><updated>2017-04-21T00:00:00+09:00</updated><id>http://0.0.0.0:4002/java%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC4</id><content type="html" xml:base="http://0.0.0.0:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC4/">&lt;h2 id=&quot;第6回目の授業&quot;&gt;第6回目の授業&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="java" /><category term="英語" /><category term="勉強会" /><summary type="html">Mips ve assembly kodları giriş.</summary></entry><entry><title type="html">java勉強会</title><link href="http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC4/" rel="alternate" type="text/html" title="java勉強会" /><published>2017-04-21T00:00:00+09:00</published><updated>2017-04-21T00:00:00+09:00</updated><id>http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC4</id><content type="html" xml:base="http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC4/">&lt;h2 id=&quot;第6回目の授業&quot;&gt;第6回目の授業&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;講師&lt;/p&gt;
@@ -289,7 +367,7 @@ Nutag(ノタック) 神保町教室
       &lt;li&gt;5/13(土)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="java" /><category term="英語" /><category term="勉強会" /><summary type="html">Mips ve assembly kodları giriş.</summary></entry><entry><title type="html">java勉強会</title><link href="http://0.0.0.0:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC3/" rel="alternate" type="text/html" title="java勉強会" /><published>2017-04-21T00:00:00+09:00</published><updated>2017-04-21T00:00:00+09:00</updated><id>http://0.0.0.0:4002/java%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC3</id><content type="html" xml:base="http://0.0.0.0:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC3/">&lt;h2 id=&quot;第6回目の授業&quot;&gt;第6回目の授業&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="java" /><category term="英語" /><category term="勉強会" /><summary type="html">Mips ve assembly kodları giriş.</summary></entry><entry><title type="html">java勉強会</title><link href="http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC3/" rel="alternate" type="text/html" title="java勉強会" /><published>2017-04-21T00:00:00+09:00</published><updated>2017-04-21T00:00:00+09:00</updated><id>http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC3</id><content type="html" xml:base="http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC3/">&lt;h2 id=&quot;第6回目の授業&quot;&gt;第6回目の授業&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;講師&lt;/p&gt;
@@ -371,7 +449,7 @@ Nutag(ノタック) 神保町教室
       &lt;li&gt;5/13(土)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="java" /><category term="英語" /><category term="勉強会" /><summary type="html">Mips ve assembly kodları giriş.</summary></entry><entry><title type="html">java勉強会</title><link href="http://0.0.0.0:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC2/" rel="alternate" type="text/html" title="java勉強会" /><published>2017-04-21T00:00:00+09:00</published><updated>2017-04-21T00:00:00+09:00</updated><id>http://0.0.0.0:4002/java%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC2</id><content type="html" xml:base="http://0.0.0.0:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC2/">&lt;h2 id=&quot;第6回目の授業&quot;&gt;第6回目の授業&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="java" /><category term="英語" /><category term="勉強会" /><summary type="html">Mips ve assembly kodları giriş.</summary></entry><entry><title type="html">java勉強会</title><link href="http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC2/" rel="alternate" type="text/html" title="java勉強会" /><published>2017-04-21T00:00:00+09:00</published><updated>2017-04-21T00:00:00+09:00</updated><id>http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC2</id><content type="html" xml:base="http://192.168.0.19:4002/java%E3%81%AE%E3%82%B3%E3%83%92-%E3%83%BC2/">&lt;h2 id=&quot;第6回目の授業&quot;&gt;第6回目の授業&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;講師&lt;/p&gt;
@@ -453,7 +531,7 @@ Nutag(ノタック) 神保町教室
       &lt;li&gt;5/13(土)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="java" /><category term="英語" /><category term="勉強会" /><summary type="html">Mips ve assembly kodları giriş.</summary></entry><entry><title type="html">java勉強会</title><link href="http://0.0.0.0:4002/java/" rel="alternate" type="text/html" title="java勉強会" /><published>2017-04-21T00:00:00+09:00</published><updated>2017-04-21T00:00:00+09:00</updated><id>http://0.0.0.0:4002/java</id><content type="html" xml:base="http://0.0.0.0:4002/java/">&lt;h2 id=&quot;第6回目の授業&quot;&gt;第6回目の授業&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="java" /><category term="英語" /><category term="勉強会" /><summary type="html">Mips ve assembly kodları giriş.</summary></entry><entry><title type="html">java勉強会</title><link href="http://192.168.0.19:4002/java/" rel="alternate" type="text/html" title="java勉強会" /><published>2017-04-21T00:00:00+09:00</published><updated>2017-04-21T00:00:00+09:00</updated><id>http://192.168.0.19:4002/java</id><content type="html" xml:base="http://192.168.0.19:4002/java/">&lt;h2 id=&quot;第6回目の授業&quot;&gt;第6回目の授業&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;講師&lt;/p&gt;
@@ -535,7 +613,7 @@ Nutag(ノタック) 神保町教室
       &lt;li&gt;5/13(土)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="java" /><category term="英語" /><category term="勉強会" /><summary type="html">Mips ve assembly kodları giriş.</summary></entry><entry><title type="html">JBlog Jekyll Theme</title><link href="http://0.0.0.0:4002/JBlog-theme/" rel="alternate" type="text/html" title="JBlog Jekyll Theme" /><published>2016-03-21T00:00:00+09:00</published><updated>2016-03-21T00:00:00+09:00</updated><id>http://0.0.0.0:4002/JBlog-theme</id><content type="html" xml:base="http://0.0.0.0:4002/JBlog-theme/">&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png&quot; alt=&quot;jekyll Image&quot; /&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="java" /><category term="英語" /><category term="勉強会" /><summary type="html">Mips ve assembly kodları giriş.</summary></entry><entry><title type="html">JBlog Jekyll Theme</title><link href="http://192.168.0.19:4002/JBlog-theme/" rel="alternate" type="text/html" title="JBlog Jekyll Theme" /><published>2016-03-21T00:00:00+09:00</published><updated>2016-03-21T00:00:00+09:00</updated><id>http://192.168.0.19:4002/JBlog-theme</id><content type="html" xml:base="http://192.168.0.19:4002/JBlog-theme/">&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png&quot; alt=&quot;jekyll Image&quot; /&gt;&lt;/p&gt;
 
 &lt;center&gt;&lt;b&gt;JBlog&lt;/b&gt; is a simple jekyll theme.&lt;/center&gt;
 
@@ -658,7 +736,7 @@ Nutag(ノタック) 神保町教室
 
 &lt;h3 id=&quot;post-index-page&quot;&gt;Post Index Page&lt;/h3&gt;
 
-&lt;p&gt;A &lt;a href=&quot;http://0.0.0.0:4002/blog/&quot;&gt;sample index page&lt;/a&gt; listing all blog posts. The name can be customized to your liking by editing a few references. For example, to change &lt;strong&gt;Blog&lt;/strong&gt; to &lt;strong&gt;Posts&lt;/strong&gt; update the following:&lt;/p&gt;
+&lt;p&gt;A &lt;a href=&quot;http://192.168.0.19:4002/blog/&quot;&gt;sample index page&lt;/a&gt; listing all blog posts. The name can be customized to your liking by editing a few references. For example, to change &lt;strong&gt;Blog&lt;/strong&gt; to &lt;strong&gt;Posts&lt;/strong&gt; update the following:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;In &lt;code class=&quot;highlighter-rouge&quot;&gt;_data/navigation.yml&lt;/code&gt;: rename the title and URL to the following:&lt;/li&gt;
@@ -693,7 +771,7 @@ Nutag(ノタック) 神保町教室
 
 &lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
 
-&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="JBlog" /><category term="blog" /><category term="about" /><category term="theme" /><summary type="html">Simple Jekyll theme for your blog by Alperen Bozkurt.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png" /></entry><entry><title type="html">Markdown Syntax</title><link href="http://0.0.0.0:4002/markdown-syntax/" rel="alternate" type="text/html" title="Markdown Syntax" /><published>2016-03-15T00:00:00+09:00</published><updated>2016-03-15T00:00:00+09:00</updated><id>http://0.0.0.0:4002/markdown-syntax</id><content type="html" xml:base="http://0.0.0.0:4002/markdown-syntax/">&lt;h2 id=&quot;html-elements&quot;&gt;HTML Elements&lt;/h2&gt;
+&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="JBlog" /><category term="blog" /><category term="about" /><category term="theme" /><summary type="html">Simple Jekyll theme for your blog by Alperen Bozkurt.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png" /></entry><entry><title type="html">Markdown Syntax</title><link href="http://192.168.0.19:4002/markdown-syntax/" rel="alternate" type="text/html" title="Markdown Syntax" /><published>2016-03-15T00:00:00+09:00</published><updated>2016-03-15T00:00:00+09:00</updated><id>http://192.168.0.19:4002/markdown-syntax</id><content type="html" xml:base="http://192.168.0.19:4002/markdown-syntax/">&lt;h2 id=&quot;html-elements&quot;&gt;HTML Elements&lt;/h2&gt;
 
 &lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
 
@@ -813,7 +891,7 @@ Nutag(ノタック) 神保町教室
 
 &lt;h2 id=&quot;notices&quot;&gt;Notices&lt;/h2&gt;
 
-&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;.notice&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; to a paragraph.&lt;/p&gt;</content><author><name></name></author><category term="markdown" /><category term="syntax" /><category term="sample" /><category term="test" /><category term="jekyll" /><summary type="html">Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more.</summary></entry><entry><title type="html">A Post with Images</title><link href="http://0.0.0.0:4002/sample-post-images/" rel="alternate" type="text/html" title="A Post with Images" /><published>2013-05-22T00:00:00+09:00</published><updated>2013-05-22T00:00:00+09:00</updated><id>http://0.0.0.0:4002/sample-post-images</id><content type="html" xml:base="http://0.0.0.0:4002/sample-post-images/">&lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; with the appropriate &lt;code class=&quot;highlighter-rouge&quot;&gt;class&lt;/code&gt;. Each instance of &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;.notice&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; to a paragraph.&lt;/p&gt;</content><author><name></name></author><category term="markdown" /><category term="syntax" /><category term="sample" /><category term="test" /><category term="jekyll" /><summary type="html">Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more.</summary></entry><entry><title type="html">A Post with Images</title><link href="http://192.168.0.19:4002/sample-post-images/" rel="alternate" type="text/html" title="A Post with Images" /><published>2013-05-22T00:00:00+09:00</published><updated>2013-05-22T00:00:00+09:00</updated><id>http://192.168.0.19:4002/sample-post-images</id><content type="html" xml:base="http://192.168.0.19:4002/sample-post-images/">&lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; with the appropriate &lt;code class=&quot;highlighter-rouge&quot;&gt;class&lt;/code&gt;. Each instance of &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
 
 &lt;h3 id=&quot;figures-for-images-or-video&quot;&gt;Figures (for images or video)&lt;/h3&gt;
 
@@ -862,114 +940,4 @@ Nutag(ノタック) 神保町教室
 	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
 	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
 	&lt;figcaption&gt;Three images.&lt;/figcaption&gt;
-&lt;/figure&gt;</content><author><name></name></author><category term="sample post" /><category term="images" /><category term="test" /><summary type="html">Examples and code for displaying images in posts.</summary></entry><entry><title type="html">MIPS Nedir</title><link href="http://0.0.0.0:4002/readability-post/" rel="alternate" type="text/html" title="MIPS Nedir" /><published>2012-05-22T00:00:00+09:00</published><updated>2012-05-22T00:00:00+09:00</updated><id>http://0.0.0.0:4002/readability-post</id><content type="html" xml:base="http://0.0.0.0:4002/readability-post/">&lt;h1 id=&quot;mips-nedir-&quot;&gt;&lt;strong&gt;Mips Nedir ?&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;MIPS &lt;strong&gt;İndirgenmiş Komut Kümesi&lt;/strong&gt; türü bir mikroişlemci mimarisidir. MIPS Teknolojileri adlı firma tarafından üretilmiştir. Her komut aynı boydadır. Bu da komutların bilgisayar donanımı tarafından kolay çözülmesini sağlar.
-&lt;strong&gt;RISC&lt;/strong&gt; yapısından dolayı tasarımı basittir. Çoğu modern mikroişlemci mimarisi (IBM/Motorola PowerPC, DEC, ARM) Mips mimarisinden esinlenilerek yapılmıştır.
-Günümüz itibarıyla &lt;strong&gt;Nintendo 64&lt;/strong&gt;, &lt;strong&gt;Sony PlayStation&lt;/strong&gt;, &lt;strong&gt;Sony PlayStation 2&lt;/strong&gt; ve &lt;strong&gt;Sony PSP&lt;/strong&gt; MIPS mimarisi ile çalışan işlemcilere sahiptirler.&lt;/p&gt;
-
-&lt;h2 id=&quot;registerlar-neden-var&quot;&gt;Register’lar Neden Var&lt;/h2&gt;
-&lt;p&gt;İşlemci birim zamanda sadece bir işlem yapabilir. Örneğin 3 sayıyı toplamasını istediğimizde önce ilk ikisini toplayacak, sonra ara sonucu tekrar ram’e yazacak. Sonra bu ara sonuç ile 3. sayıyı tekrar çağırıp onlarıda toplayacak. Sonra tekrar Ram’e kadar gidi yazacak. Fakat ara sonucu işlemcinin içerisinde tutabilseydik işlemleri daha hızlı gerçekleştirebilirdik. Her işlemden sonra verileri ram’e götürüp yazmak zorunda kalmazdık. Böyle diyerek işlemcinin içerisine registerları eklemişler.&lt;/p&gt;
-
-&lt;h2 id=&quot;hangi-register-ne-işe-yarar&quot;&gt;Hangi Register Ne işe Yarar&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Register&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Sayısı&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Açıklama&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;$zero&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;İçerisinde 0 sayısı vardır.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;$at&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Assembler tarafından kullanılır.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;$v0-$v1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2-3&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Metodların return değişkenleri için.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;$a0-$a3&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4-7&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Metodlara gidecek parametreler için.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;$t0-$t7&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;8-15&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Geçici değişkenler&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;$s0-$s7&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;16-23&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Kayıt registerları&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;$t8-$t9&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;24-25&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Biraaz daha geçici değişken&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;$k0-$k1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;26-27&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;İşletim sistemi tarafından kullanılır.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;$gp&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;28&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Global Pointer&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;$sp&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;29&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Stack Pointer&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;$fp&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;30&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Frame Pointer&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;$ra&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;31&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Return Adress&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;örnek-bir-assembly-kodu&quot;&gt;Örnek Bir Assembly Kodu&lt;/h2&gt;
-&lt;p&gt;C dilinde yazılmış &lt;code class=&quot;highlighter-rouge&quot;&gt;f = (a+b)+(c+d)&lt;/code&gt; işlemini assembly ile yazalım.
-(Değişkenler sırasıyla s0,s1,s2,s3,s4 registerlarına getirilmiştir.)&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ca65&quot; data-lang=&quot;ca65&quot;&gt;add $t0, $s1, $s2
-add $t1, $s3, $s4
-add $s0, $t0, $t1&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name></name></author><category term="sample post" /><category term="readability" /><category term="test" /><summary type="html">Mips ve assembly kodları giriş.</summary></entry></feed>
+&lt;/figure&gt;</content><author><name></name></author><category term="sample post" /><category term="images" /><category term="test" /><summary type="html">Examples and code for displaying images in posts.</summary></entry></feed>
