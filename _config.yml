@@ -61,7 +61,7 @@ disqus_shortname: mn-it
 
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
