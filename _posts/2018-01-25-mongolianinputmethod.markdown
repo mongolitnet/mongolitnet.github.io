@@ -25,7 +25,7 @@ permalink: learn-mongol-ime
 
 ## 開催場所  
 - 住所  
-[東京都千代田区神保町2-12-3安富ビル3F](https://www.google.co.jp/maps?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E7%A5%9E%E4%BF%9D%E7%94%BA2-12-3%E5%AE%89%E5%AF%8C%E3%83%93%E3%83%AB3F&um=1&ie=UTF-8&sa=X&ved=0.1ahUKEwjNyLX85u7VAhXKrlQKHWsrAqYQ_AUICigB)
+東京都千代田区神保町2-12-3安富ビル3F
 - 最寄り駅  
 神保町駅A4を左へ曲がって50mぐらい
 - 地図  
@@ -64,7 +64,9 @@ permalink: learn-mongol-ime
 
 どなたでも自由に参加できます。以下のリンクを押して出欠登録を行ってください。
 
-- [https://chouseisan.com/s?h=0cfc81383c1244d1994e234828156e82](https://chouseisan.com/s?h=0cfc81383c1244d1994e234828156e82)
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeFShQT9Reuq2lzImaJNEedHwoJ5fXAijlVSCXNlqQa1nWneQ/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
+
+<!-- - [https://chouseisan.com/s?h=0cfc81383c1244d1994e234828156e82](https://chouseisan.com/s?h=0cfc81383c1244d1994e234828156e82) -->
 
 
 
